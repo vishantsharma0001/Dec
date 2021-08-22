@@ -5,4 +5,5 @@
 [![Vishantsharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishantsharma)](https://github.com/vishantsharma/github-readme-stats)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<dark>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=anuraghazra&show_icons=true&theme=radical" />
+)
